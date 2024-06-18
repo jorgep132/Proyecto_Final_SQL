@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">TITULO</Data></Cell>
+			<Cell><Data ss:Type="String">VALORACION</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">The Witcher 3 - Modificado</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Red Dead Redemption 2</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Resident Evil 4 Remake</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Silent Hill 2</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Animal Crossing: New Horizons</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Metroid Dread</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Braid</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">League of Legends</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Prince of Persia: The Lost Crown</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cyberpunk 2077</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
