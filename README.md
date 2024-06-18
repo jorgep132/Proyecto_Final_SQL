@@ -1,6 +1,3 @@
-# Proyecto_Final_SQL
-Comision 53190
-
 # Proyecto Final SQL / Coderhouse Comisión - 53190
 ***
 Base de datos para una revista ficticia virtual sobre videojuegos, donde se pueden visualizar datos de estos.
